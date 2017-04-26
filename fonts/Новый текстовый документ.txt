@@ -1,0 +1,8 @@
+SolomonSansNormal
+SolomonSansThin
+SolomonSansSemiBold
+SolomonSansBlack
+SolomonSansBold
+Verdana
+VerdanaBold
+georgia
